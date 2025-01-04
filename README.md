@@ -55,7 +55,7 @@ The game will open in a window and use your webcam to track your hand gestures. 
 ## Screenshots
 
 ### Gameplay Screenshot:
-![Gameplay Screenshot](images/hand_gesture_gameplay.png)
+![Gameplay Screenshot](hand_gesture_gameplay.png)
 
 ## Troubleshooting
 
